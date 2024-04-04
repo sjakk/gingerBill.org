@@ -4,10 +4,23 @@
     <link>/tags/c/</link>
     <description>Recent content in c on gingerBill</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 22 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/c/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Video That Inspired Me To Create Odin</title>
+      <link>/article/2024/04/04/video-that-inspired-odin/</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/article/2024/04/04/video-that-inspired-odin/</guid>
+      <description>[Originally from a Twitter Thread]
+Original Twitter Post
+Many people may not know this but this video by Sean Barrett @nothings is partially the reason why I made the Odin programming language.
+And I&amp;rsquo;ll explain what insights it gave me in this thread 🧵.
+A lot of these seem &amp;ldquo;so obvious&amp;rdquo; but for some reason it never clicked to me before this video. A lot of the &amp;ldquo;higher level&amp;rdquo; &amp;ldquo;scripting&amp;rdquo; languages are not that much higher level than C.</description>
+    </item>
     
     <item>
       <title>Why I Hate Language Benchmarks</title>
