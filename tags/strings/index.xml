@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>strings on gingerBill</title>
+    <link>/tags/strings/</link>
+    <description>Recent content in strings on gingerBill</description>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 05 Apr 2024 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/strings/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>String Type Distinctions</title>
+      <link>/article/2024/04/05/string-type-distinctions/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/article/2024/04/05/string-type-distinctions/</guid>
+      <description>[Originally from a Twitter Thread]
+Original Twitter Post
+One thing many languages &amp;amp; API designers get wrong is the concept of a string. I try to make a firm distinction between:
+string value (string or char const *) string builder (strings.Builder or realloc+snprintf) Backing buffer for a string ([]byte or char *) They are not equivalent even if you can theoretically use them as such, and so many garbage collected language use them as such.</description>
+    </item>
+    
+  </channel>
+</rss>
