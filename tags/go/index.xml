@@ -4,10 +4,22 @@
     <link>/tags/go/</link>
     <description>Recent content in go on gingerBill</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/go/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Why People are Angry over Go 1.23 Iterators</title>
+      <link>/article/2024/06/17/go-iterator-design/</link>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/article/2024/06/17/go-iterator-design/</guid>
+      <description>NOTE: This is based on, but completely rewritten, from a Twitter post: https://x.com/TheGingerBill/status/1802645945642799423
+I recently saw a post on Twitter showing the upcoming Go iterator design for Go 1.23 (August 2024). From what I can gather, many people seem to dislike the design. I wanted to give my thoughts on it as a language designer.
+The merged PR for the proposal can be found here: https://github.com/golang/go/issues/61897
+It has a in-depth explanation of the design explaining why certain approaches were chosen instead, so I do recommend reading it if you are familiar with Go.</description>
+    </item>
     
     <item>
       <title>Multiple Return Values Research</title>
